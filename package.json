@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "a command-line web crawler written in JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JP-Robbins/web-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JP-Robbins/web-crawler/issues"
+  },
+  "homepage": "https://github.com/JP-Robbins/web-crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
